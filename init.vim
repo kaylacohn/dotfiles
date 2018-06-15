@@ -1,0 +1,1 @@
+/Users/kaylacohn/.config/nvim/init.vim
